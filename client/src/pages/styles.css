@@ -1,0 +1,34 @@
+.show-all_route {
+  position: absolute;
+  right: 30px;
+  top: 10px;
+}
+
+.employee-form {
+  padding: 30px 20px
+}
+
+.list-ground--color {
+  color: #000;
+}
+
+.edit-list {
+  position: absolute;
+  right: 0;
+  padding: 15px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.remove-list {
+  position: absolute;
+  right: 40px;
+  padding: 15px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.nav-link {
+  display: flex;
+  justify-content: space-between;
+}
